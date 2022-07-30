@@ -711,13 +711,6 @@
 /obj/structure/cable,
 /turf/simulated/floor/tiled/skrell/orange,
 /area/ship/skrellskoutship/observatory)
-"hA" = (
-/obj/effect/paint/black,
-/obj/machinery/atmospherics/unary/tank/air{
-	dir = 1
-	},
-/turf/simulated/wall/r_titanium,
-/area/ship/skrellscoutship/command/bridge)
 "hG" = (
 /obj/structure/cable{
 	d1 = 1;
@@ -4314,7 +4307,6 @@
 /turf/simulated/floor/tiled/skrell/white,
 /area/ship/skrellskoutship/observatory)
 "Qu" = (
-/obj/machinery/hologram/holopad/longrange/remoteship,
 /obj/machinery/atmospherics/pipe/manifold/hidden/scrubbers{
 	dir = 8
 	},
@@ -4326,17 +4318,6 @@
 /turf/simulated/floor/tiled/skrell/blue,
 /area/ship/skrellscoutship/command/bridge)
 "Qw" = (
-/obj/machinery/porta_turret/ssv,
-/obj/structure/window/phoronreinforced{
-	dir = 8
-	},
-/obj/structure/window/phoronreinforced,
-/obj/structure/window/phoronreinforced{
-	dir = 4
-	},
-/obj/structure/window/phoronreinforced{
-	dir = 1
-	},
 /obj/machinery/atmospherics/pipe/simple/hidden/scrubbers{
 	dir = 4
 	},
@@ -4345,6 +4326,7 @@
 	d2 = 8;
 	icon_state = "4-8"
 	},
+/obj/machinery/hologram/holopad/longrange/remoteship,
 /turf/simulated/floor/tiled/skrell/blue,
 /area/ship/skrellscoutship/command/bridge)
 "QA" = (
@@ -9421,7 +9403,7 @@ Tb
 Aj
 oZ
 oZ
-hA
+oZ
 oZ
 oZ
 QJ

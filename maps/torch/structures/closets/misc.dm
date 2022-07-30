@@ -97,7 +97,6 @@
 		/obj/item/weapon/folder,
 		/obj/item/device/tape/random = 3,
 		/obj/item/weapon/storage/secure/briefcase,
-		/obj/item/weapon/rig/light/internalaffairs,
 		/obj/item/device/radio/headset/terran,
 		/obj/item/clothing/shoes/terran,
 		/obj/item/clothing/under/terran/navy/service/command,
